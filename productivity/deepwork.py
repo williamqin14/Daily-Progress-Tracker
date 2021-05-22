@@ -65,7 +65,7 @@ class Goal:
         split_date = date.split('/')
         return split_date[1]
 
-    #returns day
+    #returns year
     def year(self,date):
         if not date[0].isnumeric():
             date = date.replace(date[0],'')
@@ -378,7 +378,7 @@ while running:
                 goal.create()
                 ask = input('Would you like to store new goal in memory? ("y" to confirm): ')
                 if ask=='y':
-                    goal.store_in_memory
+                    goal.store_in_memory()
                     print('Goal stored!')
             print()
         elif action=='q':
