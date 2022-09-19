@@ -8,3 +8,6 @@ Example of script running:
 
 Example of personal use:
 <img width="1713" alt="Screen Shot 2022-09-19 at 2 30 41 PM" src="https://user-images.githubusercontent.com/84489685/191089735-bef756c6-a3fd-4fbf-9bc3-5125f7e05c79.png">
+
+Example of csv file storage utilizing symbols:
+<img width="812" alt="Screen Shot 2022-09-19 at 2 33 50 PM" src="https://user-images.githubusercontent.com/84489685/191090301-babcbabc-8a5d-49c6-b13c-5db351b7fa14.png">
