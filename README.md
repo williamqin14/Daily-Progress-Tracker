@@ -2,3 +2,5 @@
 A basic productivity tracker that records hours being productive each day and stores them in a csv file. 
 Created and inspired by the book "Deep Work".
 Created using knowledge from an introduction to computer programming class. 
+
+<img width="721" alt="Screen Shot 2022-09-19 at 2 28 40 PM" src="https://user-images.githubusercontent.com/84489685/191089418-dc49de7b-681b-471d-8b4a-203bf01411e8.png">
